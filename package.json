@@ -1,0 +1,19 @@
+{
+  "name": "ts_projects-00",
+  "version": "1.1.0",
+  "description": "This is a 'simple command line calculator' by using Ts, Node.js and Inquirer.",
+  "main": "class-00.js",
+  "type": "module",
+  "bin":"class-00.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BUSHRA KHAN",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
